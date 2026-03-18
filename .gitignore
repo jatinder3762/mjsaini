@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Laravel backend artifacts
+/backend/vendor/
+/backend/node_modules/
+/backend/storage/*.key
+/backend/bootstrap/cache/*.php
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
