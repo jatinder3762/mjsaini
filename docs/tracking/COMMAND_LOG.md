@@ -7,3 +7,5 @@
 | 2026-03-18 | `Move-Item mjsaini -> backend` | Professional backend naming for monorepo layout |
 | 2026-03-18 | `New-Item frontend, docs/setup, docs/tracking` | Create clean structure for frontend and documentation |
 | 2026-03-18 | `Remove-Item index.php` | Remove root entrypoint; use vhost to backend/public |
+| 2026-03-18 | git add . | Stage baseline structure files for first commit |
+| 2026-03-18 | git commit -m 'chore(repo): establish professional structure and build tracking' | Create baseline commit for future feature/page work |
